@@ -108,33 +108,6 @@
                 "pregunta": "Según esta ley, una mujer puede abortar cuando:",
                 "opciones": ["Es para salvar la vida de la madre o del feto, en caso de violación a una menor o por algún problema médico de la madre.", "El feto tenga una enfermedad grave; cuando esté en riesgo la vida de la mujer o por petición de la familia.", "La mujer lo solicite en caso de violación; cuando exista riesgo por la vida o por graves anomalías en el feto.", "La mujer lo solicite; cuando exista un grave riesgo para la vida o salud de la embarazada o por graves anomalías en el feto."],
                 "respuestas": ["El feto tenga una enfermedad grave; cuando esté en riesgo la vida de la mujer o por petición de la familia."]
-            },
-            {
-                "id": 20,
-                "indicacion": "Lea el Capítulo I del Título II de esta Ley y conteste las siguientes preguntas:",
-                "img": "https://www.prepostseo.com/tmp_imgs/8263513411563325278.jpg",
-                "categoria": "Cultura",
-                "pregunta": "Las condiciones para que una mujer pueda abortar son:",
-                "opciones": ["Que no supere las 14 semanas de gestación y se practique por un especialista en un centro sanitario acreditado y con consentimiento expreso de la mujer embaraza o de su representante legal.", "Que supere las 22 semanas de gestación y se practique por un especialista en un centro sanitario acreditado y sin consentimiento expreso de la mujer embaraza o de su representante legal.", "Que no supere las 22 semanas de gestación y se practique por un especialista en un centro sanitario acreditado y con consentimiento expreso de la mujer embaraza o de su representante legal.", "Que supere las 14 semanas de gestación y se practique por un especialista en un centro sanitario acreditado y sin consentimiento expreso de la mujer embaraza o de su representante legal."],
-                "respuestas": ["Que supere las 14 semanas de gestación y se practique por un especialista en un centro sanitario acreditado y sin consentimiento expreso de la mujer embaraza o de su representante legal."]
-            },
-            {
-                "id": 21,
-                "indicacion": "Lea el Capítulo I del Título II de esta Ley y conteste las siguientes preguntas:",
-                "img": "https://www.prepostseo.com/tmp_imgs/8263513411563325278.jpg",
-                "categoria": "Cultura",
-                "pregunta": "Una mujer puede interrumpir libremente su embarazo después de:",
-                "opciones": ["Conocer las ayudas públicas y expresar verbalmente su decisión de hacerlo.", "Expresar su petición y decisión de hacerlo sin conocer sus derechos.", "Firmar su petición conociendo sus derechos y ayudas públicas de apoyo.", "Conocer sus derechos y contar con el apoyo de su familia para hacerlo."],
-                "respuestas": ["Conocer las ayudas públicas y expresar verbalmente su decisión de hacerlo.", "Firmar su petición conociendo sus derechos y ayudas públicas de apoyo."]
-            },
-            {
-                "id": 22,
-                "indicacion": "Lea el Capítulo I del Título II de esta Ley y conteste las siguientes preguntas:",
-                "img": "https://www.prepostseo.com/tmp_imgs/8263513411563325278.jpg",
-                "categoria": "Cultura",
-                "pregunta": "Un embarazo podrá interrumpirse por causas médicas cuando:",
-                "opciones": ["El feto no supere las 22 semanas de gestación; presente graves anomalías o una enfermedad extremadamente grave con un diagnóstico médico previo.", "El feto supere las 14 semanas de gestación; presente graves anomalías y una enfermedad extremadamente grave sin un diagnóstico médico previo.", "El feto supere las 22 semanas de gestación; presente graves anomalías y una enfermedad extremadamente grave con un diagnóstico médico previo.", "El feto no supere las 14 semanas de gestación; presente graves anomalías o una enfermedad extremadamente grave con un diagnóstico médico previo."],
-                "respuestas": ["El feto no supere las 14 semanas de gestación; presente graves anomalías o una enfermedad extremadamente grave con un diagnóstico médico previo."]
             }
         ],
         "dicotomica": [
