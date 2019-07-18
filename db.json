@@ -63,51 +63,6 @@
                 "pregunta": "Si para luchar contra la tuberculosis, los europeos acaudalados buscaban refugio en lujosos sanatorios de Suiza, se puede decir que:",
                 "opciones": ["El primo de Hans Castorp tenía tuberculosis y por eso Castorp fue a visitarlo.", "Hans Castorp tenía tuberculosis y por eso se quedó 7 años en el sanatorio.", "Hans Castorp provenía de una familia adinerada pero no quería vivir en su ciudad.", "El primo de Hans Castorp provenía de una familia adinerada y por eso estaba en el sanatorio suizo."],
                 "respuestas": ["Hans Castorp provenía de una familia adinerada pero no quería vivir en su ciudad."]
-            },
-            {
-                "id": 15,
-                "indicacion": "Analice la imagen y responda las siguientes preguntas:",
-                "img": "http://blog.hospitalclinic.org/wp-content/uploads/2014/03/20140324tripticcatsalutcas.jpg",
-                "categoria": "Medicina",
-                "pregunta": "La mayor parte de los casos de tuberculosis se produce en las cárceles, barrios marginales hacinados, calles estrechas y tortuosas que atrapan las bacterias que se quedan en suspensión en el aire durante horas y horas... Sin embargo, en la imagen se puede observar que Zimbabue es una zona rural donde los vecinos viven a kilómetros de distancia. ¿Cómo se explica que la zona sea uno de los lugares con mayor número de casos de TBMDR (tuberculosis resistente a los medicamentos)?",
-                "opciones": ["Porque existe gran cantidad de gente con VIH positivo y hacen una vida normal.", "Porque el virus viaja rápidamente en el aire y la gente lo adquiere sin saberlo.", "Porque gran cantidad de personas tienen la enfermedad y la transmiten sin saberlo.", "Porque confunden los síntomas de la tuberculosis con los del VIH y se tratan para este."],
-                "respuestas": ["Porque el virus viaja rápidamente en el aire y la gente lo adquiere sin saberlo.", "Porque confunden los síntomas de la tuberculosis con los del VIH y se tratan para este."]
-            },
-            {
-                "id": 16,
-                "indicacion": "Lea el Capítulo I del Título II de esta Ley y conteste las siguientes preguntas:",
-                "img": "https://www.prepostseo.com/tmp_imgs/8263513411563325278.jpg",
-                "categoria": "Cultura",
-                "pregunta": "Esta Ley garantiza el derecho a:",
-                "opciones": ["El aborto sin ningún problema legal", "La maternidad responsable y decidida", "La asistencia sanitaria obligatoria", "La libertad sexual y reproductiva"],
-                "respuestas": ["El aborto sin ningún problema legal"]
-            },
-            {
-                "id": 17,
-                "indicacion": "Lea el Capítulo I del Título II de esta Ley y conteste las siguientes preguntas:",
-                "img": "https://www.prepostseo.com/tmp_imgs/8263513411563325278.jpg",
-                "categoria": "Cultura",
-                "pregunta": "La causa de abortos más común en España es:",
-                "opciones": ["La presencia de anomalías fetales incompatibles con la vida.", "La petición de la madre de terminar el embarazo.", "El riesgo de que el feto presente anomalías.", "El riesgo de la madre al presentar una enfermedad grave."],
-                "respuestas": ["La petición de la madre de terminar el embarazo."]
-            },
-            {
-                "id": 18,
-                "indicacion": "Lea el Capítulo I del Título II de esta Ley y conteste las siguientes preguntas:",
-                "img": "https://www.prepostseo.com/tmp_imgs/8263513411563325278.jpg",
-                "categoria": "Cultura",
-                "pregunta": "Las mujeres de 16 y 17 años pueden:",
-                "opciones": ["Interrumpir su embarazo con la decisión de sus padres porque son menores de edad.", "Interrumpir voluntariamente su embarazo porque son consideradas mayores de edad.", "Interrumpir voluntariamente su embarazo pero su representante debe saber su decisión.", "Interrumpir su embarazo solamente bajo el consentimiento de sus representantes legales."],
-                "respuestas": ["Interrumpir su embarazo solamente bajo el consentimiento de sus representantes legales."]
-            },
-            {
-                "id": 19,
-                "indicacion": "Lea el Capítulo I del Título II de esta Ley y conteste las siguientes preguntas:",
-                "img": "https://www.prepostseo.com/tmp_imgs/8263513411563325278.jpg",
-                "categoria": "Cultura",
-                "pregunta": "Según esta ley, una mujer puede abortar cuando:",
-                "opciones": ["Es para salvar la vida de la madre o del feto, en caso de violación a una menor o por algún problema médico de la madre.", "El feto tenga una enfermedad grave; cuando esté en riesgo la vida de la mujer o por petición de la familia.", "La mujer lo solicite en caso de violación; cuando exista riesgo por la vida o por graves anomalías en el feto.", "La mujer lo solicite; cuando exista un grave riesgo para la vida o salud de la embarazada o por graves anomalías en el feto."],
-                "respuestas": ["El feto tenga una enfermedad grave; cuando esté en riesgo la vida de la mujer o por petición de la familia."]
             }
         ],
         "dicotomica": [
